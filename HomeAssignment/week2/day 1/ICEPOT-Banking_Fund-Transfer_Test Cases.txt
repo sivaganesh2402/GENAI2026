@@ -1,0 +1,28 @@
+Instructions:
+- Fund transfer test cases within the same bank
+- [STRICT] Functional only — positive and negative
+- [MANDATORY] Include TC ID, Priority, Description, Precondition, Steps, Expected/Actual Result, Test Data
+- [CRITICAL] Mix of P0, P1, P2
+- [MANDATORY] Exactly 10 test cases
+- Then switch persona and review, adding comments
+
+Context:
+Banking app's fund transfer feature — transfers between two accounts within the same bank.
+
+Example:
+TC-ID: TC001   Priority: P1
+Description: Verify fund transfer between two same-bank accounts succeeds
+Precondition: App running; both accounts have sufficient balance
+Steps: 1) Log in 2) Enter destination account 3) Enter amount & submit
+Expected Result: Transfer succeeds; both balances update
+Test Data: Acc 1: 445556 · Acc 2: 434343 · Amount: $1000
+
+Persona:
+- Generate: Banking Domain QA Engineer, expert in functional testing
+- Review: Team Lead, reviewing the test cases
+
+Output Format:
+10 test cases in a table, followed by a short review summary and Team Lead comments.
+
+Tone:
+[STRICT] Professional tone in review comments and summary.

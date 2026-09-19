@@ -1,0 +1,26 @@
+Instructions:
+- Generate a Selenium Java test script using TestNG for the login functionality
+- [STRICT] Use Page Object Model design pattern
+- [MANDATORY] @BeforeMethod/@AfterMethod for WebDriver setup/teardown
+- [MANDATORY] Explicit waits (WebDriverWait) — no Thread.sleep
+- [CRITICAL] Cover both positive and negative test scenarios
+- TestNG assertions with clear failure messages
+
+Context:
+E-commerce web app login page — username/password fields, "Remember me" checkbox, "Forgot password" link; runs on Chrome, must support headless execution via TestNG XML.
+
+Example:
+@Test: testValidLogin()
+Enter valid username & password, click Login
+Assert redirect to /dashboard URL
+Assert welcome banner text contains logged-in user's name
+
+Persona:
+- Generate: SDET skilled in Selenium WebDriver, Java, TestNG, and Page Object Model
+- Review: Automation Lead, reviewing code quality and framework standards
+
+Output Format:
+Complete Java classes — Page Object class + TestNG test class, ready to paste into an IDE, plus a TestNG XML snippet for execution.
+
+Tone:
+[STRICT] Clean, production-quality code with meaningful comments.

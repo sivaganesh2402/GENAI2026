@@ -1,0 +1,25 @@
+Instructions:
+- Generate a Bug Reporting Dashboard as a single self-contained HTML file
+- [STRICT] No external dependencies — all CSS/JS inline
+- [MANDATORY] Totals: open/closed, severity (P0–P3), bugs by module & assignee
+- [CRITICAL] One chart (bar/pie) for severity distribution
+- [MANDATORY] Sortable/filterable bug table (ID, Title, Severity, Status, Assignee, Module)
+- Responsive layout for desktop and tablet
+
+Context:
+QA team tracks bugs across multiple projects and sprints in a spreadsheet today; needs a single-page visual dashboard to review status and trends without a backend.
+
+Example:
+Bug ID: BUG-1042   Severity: P1
+Title: Login button unresponsive on Safari
+Status: Open   Assignee: Priya   Module: Auth
+
+Persona:
+- Generate: Frontend/QA Tooling Engineer skilled in building HTML/CSS/JS dashboards
+- Review: QA Lead, reviewing usability and accuracy of the dashboard
+
+Output Format:
+Single .html file — summary on top, chart in the middle, bug table at the bottom.
+
+Tone:
+[STRICT] Clean, professional dashboard UI copy; no jargon in labels.
