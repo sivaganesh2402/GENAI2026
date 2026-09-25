@@ -1,0 +1,10 @@
+Home Assignment:
+
+1. Add "openai/gpt-oss-120b" to the existing list (Note: update popup.js)
+
+2. Implement Playwright with TypeScript
+
+Use Ask Mode to analyze the existing project structure and identify all impacted files required for the 
+Playwright with TypeScript implementation.
+Once the analysis is complete, switch to Agent Mode to implement the required changes
+
