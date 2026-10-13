@@ -1,0 +1,151 @@
+DETAILED EMPLOYEE POLICY HANDBOOK
+Sample Knowledge Base for Testing an n8n Document Question Answering (Document QA) Agent
+
+DOCUMENT CONTROL
+Document ID: HR-POL-001
+Document Title: Employee Policy Handbook
+Version: 2.1
+Effective Date: 1 January 2026
+Last Reviewed: 15 September 2026
+Policy Owner: Human Resources Department
+Approved By: Priya Raman, Human Resources Director
+Applies To: Full-time employees of Example Technology Services Pvt. Ltd.
+Policy Status: Active
+
+PURPOSE AND SCOPE
+This handbook describes selected employee policies for annual leave, sick leave, working hours, remote work, business expenses, learning and development, performance reviews, information security, and employee support. It is a fictional sample document created for testing document extraction and question answering. It is not legal, HR, or employment advice.
+
+1. ANNUAL LEAVE
+1.1 Entitlement
+Full-time employees are entitled to 20 working days of annual leave per calendar year. Part-time employee entitlement is not specified in this handbook.
+
+1.2 Request Process
+Employees should submit annual leave requests to their direct manager at least five working days before the requested leave begins. The manager reviews the request based on team capacity and business requirements. Employees should not assume leave is approved until they receive confirmation.
+
+1.3 Carry-Forward
+A maximum of five unused annual leave working days may be carried forward into the next calendar year, subject to manager approval. This handbook does not specify a deadline for using carried-forward leave.
+
+1.4 Public Holidays
+Public holidays are handled according to the company's holiday calendar. The number and dates of public holidays are not listed in this handbook.
+
+2. SICK LEAVE
+2.1 Entitlement
+Employees may take up to 10 working days of paid sick leave per calendar year.
+
+2.2 Medical Documentation
+For an absence lasting more than two consecutive working days, the employee must provide a medical certificate to Human Resources. The handbook does not specify a required certificate format.
+
+2.3 Reporting an Absence
+Employees should inform their manager as soon as reasonably possible when illness prevents them from working. The exact reporting deadline and the process for emergencies are not specified in this handbook.
+
+3. WORKING HOURS AND ATTENDANCE
+3.1 Standard Schedule
+The standard working schedule is Monday to Friday, 9:00 AM to 5:30 PM.
+
+3.2 Breaks
+Employees have a 30-minute lunch break. Other break arrangements are not specified in this handbook.
+
+3.3 Weekly Hours
+The standard working week is 40 hours.
+
+3.4 Attendance Records
+Employees must follow the attendance recording process communicated by their department. The specific software or attendance system is not named in this handbook.
+
+4. REMOTE WORK
+4.1 Weekly Allowance
+Eligible employees may work remotely up to two days per week with manager approval.
+
+4.2 Availability
+Employees working remotely must remain available during their agreed working hours and attend required in-person meetings when notified by their manager.
+
+4.3 Equipment and Internet
+Employees are responsible for taking reasonable care of company equipment assigned to them. The company does not reimburse home internet costs under this policy. Rules for reimbursing home-office furniture are not specified.
+
+4.4 Eligibility
+The handbook does not define which roles or employees qualify for remote work. Employees should ask their manager or Human Resources to confirm eligibility.
+
+5. BUSINESS EXPENSE REIMBURSEMENT
+5.1 Submission Deadline
+Employees must submit eligible business expense claims within 30 calendar days of the expense date.
+
+5.2 Receipts
+Receipts are required for individual expenses above INR 1,000. The handbook does not state whether receipts are mandatory for expenses of INR 1,000 or less.
+
+5.3 Approval and Payment
+Claims are reviewed by the employee's manager or the designated budget approver. Approved claims are normally reimbursed in the next monthly payroll cycle.
+
+5.4 Exclusions
+Personal purchases are not eligible for reimbursement. This handbook does not provide a complete list of eligible expense categories or spending limits.
+
+6. LEARNING AND DEVELOPMENT
+6.1 Training Support
+Employees may discuss role-related training with their manager during one-to-one meetings or performance reviews.
+
+6.2 Approval
+Training that requires company funding must be approved by the relevant manager before the employee makes a financial commitment.
+
+6.3 Budget
+The annual training budget per employee is not specified in this handbook. The handbook does not name approved training providers.
+
+7. PERFORMANCE REVIEWS
+7.1 Review Frequency
+Employees should participate in a formal performance review twice per year.
+
+7.2 Review Topics
+Reviews may cover objectives, work quality, collaboration, skills development, achievements, and future goals.
+
+7.3 Rating Scale
+The company's performance rating scale and promotion criteria are not specified in this handbook.
+
+8. INFORMATION SECURITY
+8.1 Credentials
+Employees must not share their passwords or authentication codes with colleagues or external parties.
+
+8.2 Suspicious Messages
+Employees who receive a suspicious email or message should report it to the IT service desk and avoid opening unexpected attachments or links.
+
+8.3 Lost Devices
+A lost or stolen company device should be reported to the IT service desk as soon as possible. The service desk contact number and response-time commitment are not specified in this handbook.
+
+8.4 Confidential Information
+Employees must handle company and customer information only through approved systems and in accordance with applicable company procedures. This sample handbook does not define data-retention periods or detailed access-control rules.
+
+9. MATERNITY AND PARENTAL LEAVE
+Eligible employees may apply for maternity or other parental leave in accordance with applicable law and the company's separate parental leave policy. This handbook does not specify the number of maternity, paternity, or adoption leave days. Employees should contact Human Resources for the applicable policy and eligibility details.
+
+10. EMPLOYEE SUPPORT AND CONTACTS
+10.1 Human Resources
+Policy contact: Priya Raman, Human Resources Director
+Email: hr@example.com
+
+10.2 IT Service Desk
+Employees should report security incidents and suspicious messages to the IT service desk. Its email address, telephone number, and operating hours are not provided in this handbook.
+
+10.3 Policy Questions
+Employees should contact Human Resources when a policy topic is not covered or when they need clarification. This handbook does not include an escalation timeline or formal appeal procedure.
+
+11. EXAMPLES FOR POLICY INTERPRETATION
+Example A: An employee asks to take three working days of annual leave starting next Monday. The handbook says the request should be submitted at least five working days in advance. It does not state that the request will automatically be approved or rejected.
+
+Example B: An employee is absent due to illness for three consecutive working days. The handbook requires a medical certificate for an absence lasting more than two consecutive working days.
+
+Example C: An eligible employee wants to work remotely three days every week. The handbook permits up to two remote-work days per week with manager approval; it does not describe an exception process.
+
+Example D: An employee submits a business expense claim 20 calendar days after the expense date. This is within the stated 30-calendar-day submission period, but reimbursement still depends on the claim being eligible and approved.
+
+Example E: An employee asks how many maternity leave days are available. This handbook does not specify the number of days, so the employee should contact Human Resources or consult the separate parental leave policy.
+
+12. INFORMATION NOT SPECIFIED IN THIS HANDBOOK
+The following details are intentionally not provided:
+- Company revenue for 2030.
+- The number and dates of public holidays.
+- Part-time employee annual leave entitlement.
+- The precise maternity or paternity leave duration.
+- The annual training budget per employee.
+- The performance rating scale and promotion criteria.
+- The IT service desk phone number and email address.
+- The exact home-office furniture reimbursement policy.
+- The name of the attendance recording software.
+- The formal policy appeal procedure.
+
+DOCUMENT END
